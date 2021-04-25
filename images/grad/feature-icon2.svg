@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.862" height="35.625" viewBox="0 0 38.862 35.625">
+  <g id="Group_829" data-name="Group 829" transform="translate(-5878.686 -10625.457)">
+    <g id="Group_830" data-name="Group 830">
+      <path id="Path_310" data-name="Path 310" d="M5904.717,10647.111l17.6-8.906-17.6-8.748" transform="translate(-7 4.251)" fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="2"/>
+      <path id="Path_311" data-name="Path 311" d="M5922.317,10647.111l-17.6-8.906,17.6-8.748" transform="translate(-23.8 4.251)" fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="2"/>
+    </g>
+    <g id="Group_831" data-name="Group 831" transform="translate(0 8.827)">
+      <path id="Path_310-2" data-name="Path 310" d="M5904.717,10647.111l17.6-8.906-8.516-4.562" transform="translate(-7 4.251)" fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="2"/>
+      <path id="Path_311-2" data-name="Path 311" d="M5922.317,10647.111l-17.6-8.906,9.015-4.5" transform="translate(-23.8 4.251)" fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="2"/>
+    </g>
+    <path id="Path_309" data-name="Path 309" d="M5887.643,10638.205l17.074,8.906,17.6-8.906-17.6-8.748-17.074,8.748" transform="translate(-7 -4)" fill="#fff"/>
+  </g>
+</svg>
